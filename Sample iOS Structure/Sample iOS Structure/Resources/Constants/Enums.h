@@ -1,0 +1,5 @@
+typedef enum
+{
+    SAMPLE_VALUE1,
+    SAMPLE_VALUE2
+} SAMPLE_ENUM;

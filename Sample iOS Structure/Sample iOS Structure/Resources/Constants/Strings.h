@@ -1,0 +1,1 @@
+#define kSAMPLE_STRING      @"Sample String Resource 1"

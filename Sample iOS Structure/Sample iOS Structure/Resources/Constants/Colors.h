@@ -1,0 +1,1 @@
+#define kSAMPLE_BUTTON_COLOR        [UIColor colorWithRed:50/255.0f green:50/255.0f blue:50/255.0f alpha:1]
